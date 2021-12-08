@@ -1,29 +1,80 @@
 h3 {
   color: rgb(0, 0, 0);
+  padding: 33px;
+  margin: -60px;
+  text-align: center;
+  font-size: 15px;
+  font-family: Hiragino Mincho ProN;
+
+}
+
+h1 {
+font-family: Hiragino Mincho ProN;
+  font-size: 25;
+}
+
+.grid_container{
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+
+.jobtekst {
+  padding: 20px;
+  margin: 90px;
+  width: 285px;
+  height: 200px;
+
+}
+
+
+main {
   background-color: #a0ccd4;
-  padding: 15px;
-  margin: 15px;
 }
 
-h1, h3 {
-  font-family: 'Nunito', sans-serif;
-  font-size: 35;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 80%;
 }
 
-.first_section4 {
+
+
+
+/* .jobtekst {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.jobbillede {
+  padding: 20px;
+  text-align: center;
+} */
+
+
+
+
+
+
+/* .jobtekst {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
 }
 
-.omosbillede {
+.jobbillede {
 grid-column: 2/2;
 grid-row: 2/2;
-}
+}  */
 
 
-img {
-  width: 30%;
-  height: 10%;
-  object-fit: cover;
-}
+/* .h3 {
+  background-color: #79e6f59d;
+  margin-top: 15px;
+  padding: 15px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  line-height: 2;
+} */
