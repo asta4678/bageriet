@@ -21,3 +21,13 @@ a {
   font-family: Hiragino Mincho ProN;
   color: #17498e;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #d6e1f1;
+  color: white;
+  text-align: center;
+}
