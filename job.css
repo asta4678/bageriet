@@ -1,8 +1,29 @@
 h3 {
-  color: black;
-  font-family: Hiragino Mincho ProN;
-  background-color: #8fbbc5;
+  color: rgb(0, 0, 0);
+  background-color: #a0ccd4;
   padding: 15px;
   margin: 15px;
 }
 
+h1, h3 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 35;
+}
+
+.first_section4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.omosbillede {
+grid-column: 2/2;
+grid-row: 2/2;
+}
+
+
+img {
+  width: 30%;
+  height: 10%;
+  object-fit: cover;
+}
