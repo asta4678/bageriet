@@ -23,6 +23,32 @@ a {
 }
 
 .footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p1 {
+  text-decoration: none;
+  font-family: Hiragino Mincho ProN;
+  color: #17498e;
+  justify-content: left;
+}
+
+p2 {
+  text-decoration: none;
+  font-family: Hiragino Mincho ProN;
+  color: #17498e;
+  justify-content: center;
+}
+
+p3 {
+  text-decoration: none;
+  font-family: Hiragino Mincho ProN;
+  color: #17498e;
+  justify-content: right;
+}
+
+.footer {
   position: fixed;
   left: 0;
   bottom: 0;
