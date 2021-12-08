@@ -1,0 +1,24 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Hiragino Mincho ProN;
+  margin-left: 40px;
+}
+
+h2 {
+  font-size: large;
+  font-family: Hiragino Mincho ProN;
+}
+
+h3 {
+  font-size: x-small;
+  font-family: Hiragino Mincho ProN;
+}
