@@ -1,11 +1,19 @@
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto;
-  padding: 10px;
+@media (min-width: 599px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    padding: 20px;
+    text-align: center;
+  }
 }
-.grid-item {
-  padding: 20px;
-  text-align: center;
+
+@media (max-width: 799px) {
+  .grid-item {
+    padding-left: 40px;
+  }
 }
 
 h1 {
