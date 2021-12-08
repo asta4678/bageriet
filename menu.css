@@ -1,0 +1,33 @@
+.background-menu {
+  background-color: #4b84d39d;
+  margin-top: 0%;
+  padding: 10%;
+  text-align: center;
+  font-family: Hiragino Mincho ProN;
+  letter-spacing: 1.5px;
+  line-height: 2;
+}
+
+.text-brød-item-price {
+  font-size: x-small;
+}
+
+.text-kager-item-price {
+  font-size: x-small;
+}
+
+.text-kaffe-item-price {
+  font-size: x-small;
+}
+
+.text-mælkekaffe-item-price {
+  font-size: x-small;
+}
+
+.text-te-item-price {
+  font-size: x-small;
+}
+
+.text-andet-item-price {
+  font-size: x-small;
+}
