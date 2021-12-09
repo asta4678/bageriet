@@ -5,8 +5,7 @@
     padding: 10px;
   }
   .grid-item {
-    padding: 20px;
-    text-align: center;
+    padding: 40px;
   }
 }
 
@@ -29,4 +28,6 @@ h2 {
 h3 {
   font-size: x-small;
   font-family: Hiragino Mincho ProN;
+  max-width: 40ch;
+  min-width: 25ch;
 }
