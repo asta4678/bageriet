@@ -1,3 +1,11 @@
+.background-colormenubillede {
+  background-color: white;
+  margin-left: 20px;
+  padding-left: 20px;
+  margin-right: 20px;
+  padding-right: 20px;
+}
+
 .background-color {
   background-color: white;
   margin: 20px;
