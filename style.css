@@ -16,10 +16,15 @@ header nav ul {
   border: none;
 }
 
-a {
+nav img {
+  max-width: 50px;
+}
+
+nav a {
   text-decoration: none;
-  font-family: Hiragino Mincho ProN;
-  color: #17498e;
+  font-family: Helvetica, sans-serif;
+  color: #16498e;
+  font-size: medium;
 }
 
 footer {
