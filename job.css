@@ -5,15 +5,14 @@ h3 {
   text-align: center;
   font-size: 15px;
   font-family: Hiragino Mincho ProN;
-
 }
 
 h1 {
-font-family: Hiragino Mincho ProN;
+  font-family: Hiragino Mincho ProN;
   font-size: 25;
 }
 
-.grid_container{
+.grid_container {
   display: grid;
   grid-template-columns: auto auto;
   padding: 10px;
@@ -24,9 +23,7 @@ font-family: Hiragino Mincho ProN;
   margin: 90px;
   width: 285px;
   height: 200px;
-
 }
-
 
 main {
   background-color: #a0ccd4;
@@ -40,9 +37,6 @@ img {
   height: 80%;
 }
 
-
-
-
 /* .jobtekst {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -52,11 +46,6 @@ img {
   padding: 20px;
   text-align: center;
 } */
-
-
-
-
-
 
 /* .jobtekst {
   display: grid;
@@ -68,7 +57,6 @@ img {
 grid-column: 2/2;
 grid-row: 2/2;
 }  */
-
 
 /* .h3 {
   background-color: #79e6f59d;
