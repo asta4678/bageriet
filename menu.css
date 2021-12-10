@@ -45,3 +45,19 @@
 .text-andet-item-price {
   font-size: x-small;
 }
+
+@media (max-width: 499px) {
+  .background-colormenubillede {
+    background-color: white;
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+  }
+
+  .background-color {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+  }
+}
