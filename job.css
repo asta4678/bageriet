@@ -1,4 +1,101 @@
+@media (min-width: 800px) {
+  .grid_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+  }
+  .jobtekst {
+    padding: 20px;
+    text-align: center;
+    margin-left: 140px;
+    margin-top: 20px;
+  }
+
+  .jobbillede {
+    display: block;
+    margin-left: 50px;
+    margin-right: auto;
+    margin-bottom: 70px;
+    width: 70%;
+    height: 80%;
+  }
+}
+
+@media (max-width: 799px) {
+  .grid-item {
+    padding-left: 40px;
+  }
+}
+
+h1 {
+  font-family: Hiragino Mincho ProN;
+  margin-left: 40px;
+}
+
+h2 {
+  font-size: large;
+  font-family: Hiragino Mincho ProN;
+}
+
 h3 {
+  font-size: small;
+  font-family: Hiragino Mincho ProN;
+  max-width: 50ch;
+}
+
+.backgroundgrid_container {
+  background-color: #a0ccd4;
+  margin: 20px;
+  padding: 20px;
+}
+
+main {
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h3 {
   color: rgb(0, 0, 0);
   padding: 33px;
   margin: -60px;
@@ -39,12 +136,12 @@ padding: 20px;
 text-align: center;
 } */
 
-
+/* 
 .jobbillede {
 padding: 20px;
 height: 40%;
 width: 40%;
-}
+} */
 
 /* .jobtekst {
   display: grid;
@@ -74,4 +171,4 @@ grid-row: 2/2;
   text-align: center;
   letter-spacing: 1.5px;
   line-height: 2;
-} */
+} */ 
