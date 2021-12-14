@@ -53,7 +53,7 @@ footer {
 
 footer .content {
   max-width: 1350px;
-  margin: auto;
+  margin: 20px;
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
