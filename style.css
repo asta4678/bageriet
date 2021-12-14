@@ -26,7 +26,7 @@ nav img {
 
 nav a {
   text-decoration: none;
-  font-family: Helvetica, sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #16498e;
   font-size: small;
   line-height: 3.5;
@@ -35,7 +35,7 @@ nav a {
 @media (min-width: 600px) {
   nav a {
     text-decoration: none;
-    font-family: Helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #16498e;
     font-size: large;
     line-height: 2.7;
@@ -43,7 +43,7 @@ nav a {
 }
 
 footer {
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -53,7 +53,7 @@ footer {
 
 footer .content {
   max-width: 1350px;
-  margin: auto;
+  margin: 20px;
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
