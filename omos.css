@@ -17,19 +17,19 @@
 
 h1 {
   font-size: 3rem;
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
   margin-left: 40px;
 }
 
 h2 {
   font-size: 2rem;
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
   padding-left: 100px;
 }
 
 h4 {
   font-size: 1rem;
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
   max-width: 40ch;
   min-width: 25ch;
   padding-left: 100px;

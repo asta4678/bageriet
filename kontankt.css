@@ -21,16 +21,16 @@
 }
 
 h1 {
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
   margin-left: 40px;
 }
 
 h2 {
   font-size: large;
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
 }
 
 h3 {
   font-size: x-small;
-  font-family: Hiragino Mincho ProN;
+  font-family: "Roboto", sans-serif;
 }
