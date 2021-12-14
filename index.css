@@ -1,15 +1,14 @@
 @media only screen and (max-width: 600px) {
-  /* #bageriet_b_splash {
+  #bageriet_b_splash {
     height: calc(var(--vh, 1.09vh) * 100);
     z-index: -1;
     object-fit: cover;
     position: fixed;
     left: 0.5px;
     right: 0.5px;
-    top: 0; */
+    top: 0;
   }
 }
-
 
 @media only screen and (min-width: 600px) {
   #bageriet_b_splash {
