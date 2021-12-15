@@ -8,6 +8,12 @@
     right: 0.5px;
     top: 0;
   }
+
+    .text {
+  position: fixed;
+  left: 0px;
+  top: 275px;
+}
 }
 
 @media only screen and (min-width: 600px) {
@@ -21,6 +27,11 @@
     top: 0;
     bottom: 0;
   }
+
+  .text {
+  position: fixed;
+  left: 140px;
+  top: 275px;
 }
 
 @media only screen and (min-width: 990px) {
@@ -34,6 +45,11 @@
     top: 0;
     bottom: 0;
   }
+
+  .text {
+  position: absolute;
+  left: 355px;
+  top: 275px;
 }
 
 #bageriet_b_splash {
@@ -41,6 +57,8 @@
   aspect-ratio: 16/9;
 }
 
-a:hover{
+a:hover {
   color: white;
 }
+
+
