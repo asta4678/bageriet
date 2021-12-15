@@ -9,11 +9,11 @@
     top: 0;
   }
 
-    .text {
-  position: fixed;
-  left: 0px;
-  top: 275px;
-}
+  .text {
+    position: fixed;
+    left: 0px;
+    top: 275px;
+  }
 }
 
 @media only screen and (min-width: 600px) {
@@ -29,9 +29,10 @@
   }
 
   .text {
-  position: fixed;
-  left: 140px;
-  top: 275px;
+    position: fixed;
+    left: 140px;
+    top: 275px;
+  }
 }
 
 @media only screen and (min-width: 990px) {
@@ -47,9 +48,10 @@
   }
 
   .text {
-  position: absolute;
-  left: 355px;
-  top: 275px;
+    position: absolute;
+    left: 355px;
+    top: 275px;
+  }
 }
 
 #bageriet_b_splash {
@@ -60,5 +62,3 @@
 a:hover {
   color: white;
 }
-
-
