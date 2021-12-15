@@ -1,4 +1,40 @@
-@media (min-width: 599px) {
+h2 {
+  font-size: 2rem;
+  font-family: Hiragino Mincho ProN;
+}
+
+p {
+  font-size: 1rem;
+  font-family: Hiragino Mincho ProN;
+  max-width: 40ch;
+  min-width: 25ch;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: Hiragino Mincho ProN;
+  margin-left: 40px;
+}
+
+.grid-item {
+  padding-top: 5px;
+}
+
+.grid-item {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+@media (min-width: 499px) {
+  p {
+    padding-left: 100px;
+  }
+
+  h2 {
+    padding-left: 100px;
+  }
+}
+@media (min-width: 1152px) {
   .grid-container {
     display: grid;
     grid-template-columns: auto auto;
@@ -7,34 +43,4 @@
   .grid-item {
     padding: 40px;
   }
-}
-
-@media (max-width: 799px) {
-  .grid-item {
-    padding-left: 40px;
-  }
-}
-
-h1 {
-  font-size: 3rem;
-  font-family: "Roboto", sans-serif;
-  margin-left: 40px;
-}
-
-h2 {
-  font-size: 2rem;
-  font-family: "Roboto", sans-serif;
-  padding-left: 100px;
-}
-
-h4 {
-  font-size: 1rem;
-  font-family: "Roboto", sans-serif;
-  max-width: 40ch;
-  min-width: 25ch;
-  padding-left: 100px;
-}
-
-.grid-item {
-  padding-top: 5px;
 }
